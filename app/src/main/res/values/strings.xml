@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PaymentTypes</string>
+    <string-array name="names">
+        <item>Cash</item>
+        <item>PayTm</item>
+        <item>PhonePe</item>
+        <item>GooglePay</item>
+    </string-array>
+    <string-array name="images">
+        <item>@drawable/cash</item>
+        <item>@drawable/paytm</item>
+        <item>@drawable/phonepe</item>
+        <item>@drawable/googlepay</item>
+    </string-array>
+</resources>
